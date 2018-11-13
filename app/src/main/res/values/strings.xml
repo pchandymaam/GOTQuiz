@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Game of Thrones Quiz</string>
+
+    <!-- Title text for the quiz.-->
+    <string name="title">How much of a Game of Thrones fan are you?</string>
+
+    <!-- Spoilers warning message.-->
+    <string name="spoilers">Caution: Spoilers!</string>
+
+    <!-- Question 1 text-->
+    <string name="question1">1.  What does Hodor stand for?</string>
+
+    <!-- Question 2 text-->
+    <string name="question2">2.  Who is John Snow\'s father?</string>
+
+    <!-- Question 3 text-->
+    <string name="question3">3.  How are Cersie Lannister and Jamie Lanister related?</string>
+
+    <!-- Question 4 text-->
+    <string name="question4">4.  Which of the following are correct titles for Daenerys Targarean?</string>
+
+    <!-- Question 5 text-->
+    <string name="question5">5.  Which Direwolves are we certain have died? </string>
+
+    <!-- Question 6 text-->
+    <string name="question6">6.  Who said \"That\'s what I do. I drink and I know things.\"?</string>
+
+    <!-- Question 7 text-->
+    <string name="question7">7.  Who saved both Tyrion Lannister and Jamie Lannister\'s life?</string>
+
+    <!-- Question 8 text-->
+    <string name="question8">8.  Is winter coming?</string>
+
+    <!-- EditText instructions for question 1-->
+    <string name="enter_text">Enter your answer here.</string>
+
+    <!-- First option for question 2.-->
+    <string name="ned">Ned Stark</string>
+
+    <!-- Second option for question 2.-->
+    <string name="robert">Robert Barathean</string>
+
+    <!-- Third option for question 2.-->
+    <string name="rhaegar">Rhaegar Targarean</string>
+
+    <!-- Fourth option for question 2.-->
+    <string name="bastard">We don\'t know. He\'s a bastard.</string>
+
+    <!-- First option for question 3.-->
+    <string name="brother">Brother and sister</string>
+
+    <!-- Second option for question 3.-->
+    <string name="husband">Husband and wife</string>
+
+    <!-- Third option for question 3.-->
+    <string name="mother">Mother and son</string>
+
+    <!-- Fourth option for question 3.-->
+    <string name="father">Father and daugter</string>
+
+    <!-- First checkbox for question 4.-->
+    <string name="unburned">The Unburned</string>
+
+    <!-- Second checkbox for question 4.-->
+    <string name="andals">Queen of the Andals and the First Men</string>
+
+    <!-- Third checkbox for question 4.-->
+    <string name="desert">Khaleesi of the Desert</string>
+
+    <!-- Fourth checkbox for question 4.-->
+    <string name="khaleesi">Khaleesi of the Great Grass Sea</string>
+
+    <!-- Fifth checkbox for question 4.-->
+    <string name="breaker">Breaker of Chains</string>
+
+    <!-- Sixth checkbox for question 4.-->
+    <string name="freer">Freer of Slaves</string>
+
+    <!-- Seventh checkbox for question 4.-->
+    <string name="dragon_mother">Dragon Mother</string>
+
+    <!-- Eighth checkbox for question 4.-->
+    <string name="mother_dragons">Mother of Dragons</string>
+
+    <!-- Ninth checkbox for question 4.-->
+    <string name="unburnt">The Unburnt</string>
+
+    <!-- Tenth checkbox for question 4.-->
+    <string name="first">First of Her Name</string>
+
+    <!-- First checkbox for question 5.-->
+    <string name="grey_wind">Grey Wind</string>
+
+    <!-- Second checkbox for question 5.-->
+    <string name="lady">Lady</string>
+
+    <!-- Third checkbox for question 5.-->
+    <string name="nymeria">Nymeria</string>
+
+    <!-- Fourth checkbox for question 5.-->
+    <string name="summer">Summer</string>
+
+    <!-- Fifth checkbox for question 5.-->
+    <string name="shaggy_dog">Shaggy Dog</string>
+
+    <!-- Sixth checkbox for question 5.-->
+    <string name="ghost">Ghost</string>
+
+    <!-- First option for question 6.-->
+    <string name="jamie">Jamie Lannister</string>
+
+    <!-- Second option for question 6.-->
+    <string name="john">John Snow</string>
+
+    <!-- Third option for question 6.-->
+    <string name="tyrion">Tyrion Lannister</string>
+
+    <!-- Fourth option for question 6.  Third option for question 7.-->
+    <string name="bronn">Bronn</string>
+
+    <!-- First option for question 7.-->
+    <string name="brienne">Brienne of Tarth</string>
+
+    <!-- Second option for question 7.-->
+    <string name="cersie">Cersie Lannister</string>
+
+    <!-- Fourth option for question 7.-->
+    <string name="jorah">Jorah Mormont</string>
+
+    <!-- Yes option for question 8.-->
+    <string name="yes">Yes</string>
+
+    <!-- No option for question 8.-->
+    <string name="no">No</string>
+
+    <!-- Text for submit button.-->
+    <string name="submit">Submit</string>
+
+
+
+
+
+
+</resources>
